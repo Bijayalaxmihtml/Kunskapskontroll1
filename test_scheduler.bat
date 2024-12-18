@@ -1,0 +1,1 @@
+python3.exe C:/2025/conda/firstScript.py
