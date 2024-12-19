@@ -1,6 +1,7 @@
 # Kunskapskontroll1
 First assignment for the knowledge test assignment files will be stored in this repository
 
+##Description
 This is a project to test the knowledge in the areas of testing, logging and scheduling a task. The language used here is Python and the database used is SQLite. Test file has been created using PyTest
 
 Here are the details of the files in this repository:
