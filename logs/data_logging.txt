@@ -1,0 +1,6 @@
+2024-12-19 10:03:29,163 - INFO -  [SUCCESS] Database myAssignment connected successfully
+2024-12-19 10:03:29,223 - INFO - [SUCCESS] CSV file found and data read successfully
+2024-12-19 10:03:29,223 - INFO - [SUCCESS] Dataframe filtered with the work_year = 2022 
+2024-12-19 10:03:29,223 - INFO - [SUCCESS] Dataframe created successfully
+2024-12-19 10:03:29,254 - INFO - [SUCCESS] SQL database has been updated successfully with the previous dataframe
+2024-12-19 10:03:29,333 - INFO - [SUCCESS] SQL database has been updated successfully with new values
