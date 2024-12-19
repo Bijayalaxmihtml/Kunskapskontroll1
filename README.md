@@ -1,8 +1,8 @@
 # Kunskapskontroll1
-First assignment for the **data science** knowledge test assignment files will be stored in this repository. This is set as public reposity as per the assignment requirement and anyone can download the code locally. To run the code one can use Visual source code editor alongwith Python, Jupyter plugin extensions.
+This repository contains the files for the first assignment of the **Data Science** Knowledge Test. It has been set as a public repository as required by the assignment, allowing anyone to download the code locally. The code can be executed using the Visual Studio Code editor with Python and Jupyter plugin extensions.
 
 **Description**
-This is a project to test the knowledge in the areas of testing, logging and scheduling a task. The language used here is Python and the database used is SQLite. Test file has been created using PyTest
+This project evaluates knowledge in areas such as testing, logging, and task scheduling. The implementation is done in Python, and SQLite is used as the database. Testing is facilitated using PyTest.
 
 Here are the details of the files in this repository:  
 - **MyFirstAssignment.ipynb** - Notebook file  
