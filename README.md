@@ -10,5 +10,7 @@ Here are the details of the files in this repository:
 - **test_scheduler.bat** - Windows batch file to run the program using CMD  
 - **data_science_job.csv** - Input CSV file which was downloaded from https://www.kaggle.com/datasets/brsahan/data-science-job/data  
 - **myAssignment.db** - Database file where the entries for only year 2022 there and formatting already done for last column i.e. L changed to Large, M changed to Medium and S changed to Small. for the salary_currency column "us dolars" changed to USD everywhere in the DB.
-- **Scheduler_Screenshot.png** - Screenshot for the Windows one time scheduler for this task 
+- **Scheduler_Screenshot.png** - Screenshot for the Windows one time scheduler for this task
+- **logs** - Folder contains the log file created everytime we run the program
+- **logs/data_logging.txt** - Logfile
 - **README.md** - Readme file for this github repository 
