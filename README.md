@@ -13,4 +13,6 @@ Here are the details of the files in this repository:
 - **Scheduler_Screenshot.png** - Screenshot for the Windows one time scheduler for this task
 - **logs** - Folder contains the log file created everytime we run the program
 - **logs/data_logging.txt** - Logfile
+- **dsassignment.py** - Python script that contains the operations in dividing as functions
+- **test_dsassignment.py** - Pytest file which tests the function written in **dsassignment.py**
 - **README.md** - Readme file for this github repository 
